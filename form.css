@@ -5,7 +5,7 @@ body{
     background-color: aqua;
 }
 main{
-    color: blue;
+    color: red;
     display: flex;
     justify-content: right;
     margin-right: 200px;
